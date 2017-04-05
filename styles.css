@@ -29,3 +29,8 @@
 .layer-05 {
    background-image: url('./assets/ilu_man.png');
 }
+
+.about {
+  height: 900px;
+  background-color: black;
+}
