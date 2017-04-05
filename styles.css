@@ -13,3 +13,19 @@
   position: fixed;
   z-index: -1;
 }
+
+.layer-01 {
+   background-image: url('./assets/ilu_bg.png');
+}
+.layer-02 {
+   background-image: url('./assets/ilu_01.png');
+}
+.layer-03 {
+   background-image: url('./assets/ilu_02.png');
+}
+.layer-04 {
+   background-image: url('./assets/ilu_03.png');
+}
+.layer-05 {
+   background-image: url('./assets/ilu_man.png');
+}
