@@ -1,0 +1,6 @@
+#hero {
+  background-color: yellow;
+  height: 800px;
+  overflow: hidden;
+  position: relative;
+}
